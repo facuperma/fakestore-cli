@@ -56,4 +56,4 @@ Fake Store API es una API de prueba: los `POST` y `DELETE` devuelven una respues
 
 ---
 
-Facundo Peralta Marello · [GitHub](https://github.com/facuperma)
+Facundo Peralta Marello 
